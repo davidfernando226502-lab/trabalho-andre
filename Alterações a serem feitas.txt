@@ -1,0 +1,26 @@
+Sobre o PDF:
+
+Página Objetivos
+	Remover "preparar dados", visto que o Dataset já estão na versão Golden, não tem mais preparação de dados.
+	Testar diferentes parâmetros.  ( e não apenas valores de K )
+
+Página Base Utilizada:
+	Importante informar que após algumas remoções e modificação, o dataset ficou com 1998 linhas e 20 colunas.
+	Principais variáveis mudou, visto que o Filipe pediu para a gente testar com mais colunas
+
+Página preparação de dados:
+	Pode remover essa página, pois a seleção de atributos, divisão dos dados e normalização dos dados não são 	preparação de dados ( pré-processamento ), isso é apenas preparação para o treino dos dados.
+
+Página Teste com diferentes valores de K 
+	Essa temos que mudar, pois agora o iremos adicionar acurácia + f1 score nos resultados
+
+Página análise dos resultados
+	Também irá mudar, visto que mudou números de colunas utilizada para o treino e também adicionamos F1 Score.
+
+Página comparação dos resultados
+	Também irá mudar, pelos mesmos motivos da página anterior
+
+Página de conclusão também irá mudar, visto que mudamos parâmetros ( colunas ) dos testes.
+
+
+Abram os 2 arquivos ipynb, lá no final de cada código tem os resultados dos testes com números de colunas diferente e resultado!
