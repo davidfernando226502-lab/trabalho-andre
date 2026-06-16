@@ -1,0 +1,3 @@
+Abrir o https://colab.research.google.com/
+
+clicar em upload, procurar, selecione o arquivo ipynb que quer abrir e pronto.
